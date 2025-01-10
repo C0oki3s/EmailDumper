@@ -1,0 +1,15 @@
+linkedin:
+  cookie: 'Linkedin Cookie: li_at'
+  email: 'Linkedin_username'
+  password: 'Linkedin_Password'
+company:
+  domain: 'netsentries.com'
+  linkedin_url: 'https://www.linkedin.com/company/netsentries-technologies'
+  output_file: 'employees.json'
+dumper:
+  email_format: '{0}.{1}@netsentries.com'
+  include_private: true
+  jitter: true
+  quiet: false
+  csrftoken: 'Linkedin CSRF TOKEN'
+
