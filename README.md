@@ -26,7 +26,7 @@ It uses LinkedIn API scraping with provided credentials and cookies, and various
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/LinkedInFetcher.git
+   git clone https://github.com/C0oki3s/EmailDumper/
    cd LinkedInFetcher
    ```
    
