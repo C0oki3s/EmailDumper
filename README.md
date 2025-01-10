@@ -43,7 +43,7 @@ It uses LinkedIn API scraping with provided credentials and cookies, and various
 
 Run the script:
 ```bash
-  python main.py
+  python main.py config.yaml
 ```
 The extracted data will be saved in the specified JSON file (e.g., employees.json).
 
